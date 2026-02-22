@@ -1,5 +1,7 @@
 This fork reintroduces the DSi NAND write code from [twlnf](https://github.com/Jimmy-Z/twlnf), allowing for a true "GodMode". It would be trivial to damage your device to the point where you would need additional hardware to restore it if you use this function without knowing what you are doing. If you are attempting to modify your DSi or if you are having issues with your modded DSi, refer to the [DSi Guide](https://dsi.cfw.guide) or seek help at the [DS<sup>(i)</sup> Mode Hacking!](https://discord.gg/fCzqcWteC4) Discord server rather than attempting to make modifications yourself.
 
+## THIS ADDS NO ADDITIONAL WARNINGS BEFORE MAKING PERMANENT MODIFICATIONS. FOR ANY NORMAL GODMODE9i USAGE, USE >> [THE ORIGINAL](https://github.com/DS-Homebrew/GodMode9i)! <<
+
 <p align="center">
 	<img src="https://github.com/DS-Homebrew/GodMode9i/raw/master/resources/logo2_small.png"><br>
 	<b>A full access file browser for the DS and DSi consoles :godmode:</b>
